@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "birvajoshi",
-    "repositoryName": "birvajoshi.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "uno"
-  }
-}
+{"meta":{"username":"birvajoshi","repositoryName":"birvajoshi.github.io","branch":"master","cname":"birvajoshi.me"},"site":{"url":"http://birvajoshi.me"},"socialnetwork":{},"theme":{"name":"uno","url":"//birvajoshi.github.io/themes/uno"}}
