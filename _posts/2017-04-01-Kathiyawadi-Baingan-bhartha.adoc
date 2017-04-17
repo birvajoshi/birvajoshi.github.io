@@ -1,0 +1,10 @@
+= Kathiyawadi Baingan bhartha
+:hp-image: https://i.ytimg.com/vi/myg7cvm9L4I/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=67&sigh=sS9ROqPQ1d32Jm_x2GdRApMv58Y
+:published_at: 2017-04-01
+:hp-tags: Baingan bhartha, Recipes, Indian recipes, Kathiyawadi Ringna no oro,
+:hp-alt-title: Kathiyawadi Baingan bhartha
+
+[#video-youtube]
+video::YqzkVhPN4AM[youtube, 600, 400]
+
+
