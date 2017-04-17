@@ -29,13 +29,13 @@
     "stackoverflow": ""
   },
   "theme": {
-    "name": "ichi",
+    "name": "casper",
     "url": "//birvajoshi.me/themes/uno"
   },
   "urls": {
     "site": "http://birvajoshi.me",
     "hubpress": "http://birvajoshi.me",
-    "theme": "//birvajoshi.me/themes/uno",
+    "theme": "//birvajoshi.me/themes/ichi",
     "images": "http://birvajoshi.me/images"
   },
   "initialisationConfigComponent": {
