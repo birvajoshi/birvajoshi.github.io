@@ -5,4 +5,4 @@
 :hp-alt-title: Kathiyawadi Dahi bhindi recipe
 
 [#video-youtube]
-video::myg7cvm9L4I[youtube, 400, 500]
+video::myg7cvm9L4I[youtube, 600, 400]
