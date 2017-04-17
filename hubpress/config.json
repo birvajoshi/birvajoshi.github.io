@@ -9,7 +9,12 @@
     "title": "Birva Desai Joshi",
     "logo": "http://i4.imgbus.com/doimg/acbobm3m7o3nfb0.jpg",
     "googleAnalytics": "UA-76613165-1",
-    "url": "http://birvajoshi.me"
+    "url": "http://birvajoshi.me",
+    "description": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "disqus": "thebirvajoshi"
   },
   "socialnetwork": {
     "email": "mail@birvajoshi.me",
@@ -17,7 +22,11 @@
     "googleplus": "https://plus.google.com/108328770363183842145",
     "facebook": "https://facebook.com/birva.desai.14",
     "instagram": "https://instagram.com/desaibirva",
-    "pinterest": "https://pinterest.com/birvadesai14"
+    "pinterest": "https://pinterest.com/birvadesai14",
+    "github": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   },
   "theme": {
     "name": "uno",
