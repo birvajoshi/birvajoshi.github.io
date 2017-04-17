@@ -35,7 +35,7 @@
   "urls": {
     "site": "http://birvajoshi.me",
     "hubpress": "http://birvajoshi.me",
-    "theme": "//birvajoshi.me/themes/uno-zen",
+    "theme": "//birvajoshi.me/themes/saga",
     "images": "http://birvajoshi.me/images"
   },
   "initialisationConfigComponent": {
