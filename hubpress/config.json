@@ -29,13 +29,13 @@
     "stackoverflow": ""
   },
   "theme": {
-    "name": "the-shell",
+    "name": "uno",
     "url": "//birvajoshi.me/themes/uno"
   },
   "urls": {
     "site": "http://birvajoshi.me",
     "hubpress": "http://birvajoshi.me",
-    "theme": "//birvajoshi.me/themes/saga",
+    "theme": "//birvajoshi.me/themes/the-shell",
     "images": "http://birvajoshi.me/images"
   },
   "initialisationConfigComponent": {
